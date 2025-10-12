@@ -6,7 +6,7 @@ import torch.optim as optim
 import torch.nn.functional as F
 
 
-state_dict=torch.load("/home/mr-vaani/Downloads/DIGIT-CLASSIFIER-PARAMS.pth",weights_only=True,map_location="cpu")
+
 
 
 class DIGITCLASSIFIER(nn.Module):
