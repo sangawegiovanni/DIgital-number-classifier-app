@@ -4,4 +4,3 @@ torch
 torchvision
 pillow
 python-multipart
-python-3.10.18
